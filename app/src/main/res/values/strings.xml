@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">YouTube</string>
+    <string name="playlist">playlist</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="try_again">Try again</string>
+    <string name="emotional"><![CDATA[Emotional Well-being & Healing Practices for Children]]></string>
+    <string name="_32_video_series">32 video series</string>
+    <string name="preview_for_videos">preview for videos</string>
+    <string name="in_this_series">In this series, we break down the impact of displacement, instability, violence, and trauma in children, and offer exercises to support children in their healing journey.</string>
+    <string name="playlist_">Playlist</string>
+    <string name="back">Back</string>
+    <string name="video_series">video series</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="no_internet">no internet connection</string>
+    <string name="play_button">play button</string>
+    <string name="how_displacement"><![CDATA[HOW DISPLACEMENT INSTABILITY & UNCERTAINTY AFFECT CHILDREN]]></string>
+    <string name="download">Download</string>
+    <string name="refuge">Refugee children often have suffered many losses and because of that, they are grieving these losses they\'re grieving the loss of their home, the loss of the life they knew, the places where they were used to be and that they loved to go. The loss of their friends, and certainly the loss of their family members and loved ones. So naturally they\'re going to have sadness.</string>
+    <string name="exoplayer">exoplayer</string>
+</resources>
